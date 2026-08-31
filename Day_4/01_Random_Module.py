@@ -32,3 +32,4 @@ if random_heads_or_tails==0:
     print("heads")
 else:
     print("Tails")
+    
